@@ -9,6 +9,9 @@ A simple command-line calculator that performs basic arithmetic operations:
 - Subtraction
 - Multiplication
 - Division
+- Modulus
+- Exponentiation
+- Floor Division
 
  2. password_generator.py
 A random password generator that:
